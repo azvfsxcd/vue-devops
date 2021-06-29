@@ -2,7 +2,6 @@
   "name": "vue-devops",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://azvfsxcd.github.io/vue-devops",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -32,5 +31,6 @@
     "prettier": "^2.2.1",
     "typescript": "~3.9.3",
     "vue-jest": "^5.0.0-0"
-  }
+  },
+  "homepage": "https://azvfsxcd.github.io/vue-devops"
 }
